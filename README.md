@@ -14,6 +14,6 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-430b6b383)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitkumar01104)
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitkumar01104)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i._.sumit._.nagar)
